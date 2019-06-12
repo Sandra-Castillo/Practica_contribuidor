@@ -1,2 +1,2 @@
 # Practica_contribuidor
-Nuev apractica
+Nueva practica colaboradores
